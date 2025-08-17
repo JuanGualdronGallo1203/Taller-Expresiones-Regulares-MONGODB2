@@ -1,0 +1,191 @@
+[
+  {
+    "nombre_completo": "Laura Sánchez Mendoza",
+    "especialidad": "Matemáticas",
+    "grados_asignados": [6, 7, 8],
+    "email": "laura.sanchez@colegio.edu.co",
+    "telefono": "3153456789",
+    "fecha_contratacion": "2018-02-10",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Carlos Jiménez Ruiz",
+    "especialidad": "Ciencias Naturales",
+    "grados_asignados": [9, 10, 11],
+    "email": "carlos.jimenez@colegio.edu.co",
+    "telefono": "3204567890",
+    "fecha_contratacion": "2020-05-15",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Ana María López García",
+    "especialidad": "Lengua Castellana",
+    "grados_asignados": [6, 7, 8, 9],
+    "email": "ana.lopez@colegio.edu.co",
+    "telefono": "3015678901",
+    "fecha_contratacion": "2017-08-22",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "David Ramírez Castro",
+    "especialidad": "Física",
+    "grados_asignados": [10, 11],
+    "email": "david.ramirez@colegio.edu.co",
+    "telefono": "3186789012",
+    "fecha_contratacion": "2019-03-14",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Sofía Martínez Díaz",
+    "especialidad": "Química",
+    "grados_asignados": [9, 10, 11],
+    "email": "sofia.martinez@colegio.edu.co",
+    "telefono": "3047890123",
+    "fecha_contratacion": "2021-01-05",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Andrés Gómez Herrera",
+    "especialidad": "Inglés",
+    "grados_asignados": [6, 7, 8, 9, 10, 11],
+    "email": "andres.gomez@colegio.edu.co",
+    "telefono": "3128901234",
+    "fecha_contratacion": "2016-11-30",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Camila Torres Rojas",
+    "especialidad": "Sociales",
+    "grados_asignados": [6, 7, 8],
+    "email": "camila.torres@colegio.edu.co",
+    "telefono": "3179012345",
+    "fecha_contratacion": "2018-07-17",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Javier Silva Mendoza",
+    "especialidad": "Educación Física",
+    "grados_asignados": [6, 7, 8, 9, 10, 11],
+    "email": "javier.silva@colegio.edu.co",
+    "telefono": "3190123456",
+    "fecha_contratacion": "2015-09-09",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Valentina Castro Ruiz",
+    "especialidad": "Artes",
+    "grados_asignados": [6, 7, 8, 9],
+    "email": "valentina.castro@colegio.edu.co",
+    "telefono": "3131234567",
+    "fecha_contratacion": "2020-04-12",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Diego Morales Pérez",
+    "especialidad": "Informática",
+    "grados_asignados": [6, 7, 8, 9, 10, 11],
+    "email": "diego.morales@colegio.edu.co",
+    "telefono": "3142345678",
+    "fecha_contratacion": "2019-10-25",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Isabella Rojas Gutiérrez",
+    "especialidad": "Matemáticas",
+    "grados_asignados": [9, 10, 11],
+    "email": "isabella.rojas@colegio.edu.co",
+    "telefono": "3163456789",
+    "fecha_contratacion": "2021-02-18",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Samuel Vargas López",
+    "especialidad": "Filosofía",
+    "grados_asignados": [10, 11],
+    "email": "samuel.vargas@colegio.edu.co",
+    "telefono": "3204567890",
+    "fecha_contratacion": "2017-05-22",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Gabriela Herrera Sánchez",
+    "especialidad": "Biología",
+    "grados_asignados": [9, 10, 11],
+    "email": "gabriela.herrera@colegio.edu.co",
+    "telefono": "3155678901",
+    "fecha_contratacion": "2018-08-15",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Miguel Ángel Díaz Castro",
+    "especialidad": "Química",
+    "grados_asignados": [10, 11],
+    "email": "miguel.diaz@colegio.edu.co",
+    "telefono": "3176789012",
+    "fecha_contratacion": "2020-11-03",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Mariana Ortiz Gómez",
+    "especialidad": "Lengua Castellana",
+    "grados_asignados": [10, 11],
+    "email": "mariana.ortiz@colegio.edu.co",
+    "telefono": "3127890123",
+    "fecha_contratacion": "2016-12-07",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Daniel Suárez Ramírez",
+    "especialidad": "Historia",
+    "grados_asignados": [6, 7, 8, 9],
+    "email": "daniel.suarez@colegio.edu.co",
+    "telefono": "3188901234",
+    "fecha_contratacion": "2019-06-19",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Valeria Medina Torres",
+    "especialidad": "Geografía",
+    "grados_asignados": [6, 7, 8],
+    "email": "valeria.medina@colegio.edu.co",
+    "telefono": "3149012345",
+    "fecha_contratacion": "2021-03-28",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Alejandro Castro Ríos",
+    "especialidad": "Inglés",
+    "grados_asignados": [9, 10, 11],
+    "email": "alejandro.castro@colegio.edu.co",
+    "telefono": "3100123456",
+    "fecha_contratacion": "2017-10-11",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Carolina Méndez Vargas",
+    "especialidad": "Educación Artística",
+    "grados_asignados": [6, 7, 8],
+    "email": "carolina.mendez@colegio.edu.co",
+    "telefono": "3111234567",
+    "fecha_contratacion": "2020-07-23",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Ricardo Peña Alvarado",
+    "especialidad": "Ética",
+    "grados_asignados": [6, 7, 8, 9],
+    "email": "ricardo.pena@colegio.edu.co",
+    "telefono": "3162345678",
+    "fecha_contratacion": "2018-04-05",
+    "estado": "activo"
+  },
+  {
+    "nombre_completo": "Patricia Rojas Gutiérrez",
+    "especialidad": "Psicología",
+    "grados_asignados": [10, 11],
+    "email": "patricia.rojas@colegio.edu.co",
+    "telefono": "3133456789",
+    "fecha_contratacion": "2019-09-16",
+    "estado": "activo"
+  }
+]
