@@ -1,0 +1,302 @@
+[
+  {
+    "nombre_completo": "María González Pérez",
+    "grado": 6,
+    "grupo": "A",
+    "fecha_nacimiento": "2011-03-15",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Chapinero",
+      "direccion": "Calle 72 # 12-34"
+    },
+    "acudiente": "Carlos González",
+    "telefono_acudiente": "3001234567",
+    "email": "maria.gonzalez@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Juan Rodríguez Martínez",
+    "grado": 11,
+    "grupo": "B",
+    "fecha_nacimiento": "2007-08-22",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Usaquén",
+      "direccion": "Carrera 15 # 120-45"
+    },
+    "acudiente": "Ana Martínez",
+    "telefono_acudiente": "3102345678",
+    "email": "juan.rodriguez@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Laura Sánchez Mendoza",
+    "grado": 8,
+    "grupo": "C",
+    "fecha_nacimiento": "2009-05-18",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Suba",
+      "direccion": "Calle 145 # 15-20"
+    },
+    "acudiente": "Pedro Sánchez",
+    "telefono_acudiente": "3203456789",
+    "email": "laura.sanchez@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Carlos Jiménez Ruiz",
+    "grado": 9,
+    "grupo": "A",
+    "fecha_nacimiento": "2008-11-30",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Kennedy",
+      "direccion": "Diagonal 40 # 65-89"
+    },
+    "acudiente": "Marta Ruiz",
+    "telefono_acudiente": "3154567890",
+    "email": "carlos.jimenez@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Ana López García",
+    "grado": 7,
+    "grupo": "B",
+    "fecha_nacimiento": "2010-02-14",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Engativá",
+      "direccion": "Carrera 80 # 70-15"
+    },
+    "acudiente": "José López",
+    "telefono_acudiente": "3015678901",
+    "email": "ana.lopez@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "David Ramírez Castro",
+    "grado": 10,
+    "grupo": "A",
+    "fecha_nacimiento": "2007-07-07",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Fontibón",
+      "direccion": "Calle 17 # 98-30"
+    },
+    "acudiente": "Sofía Castro",
+    "telefono_acudiente": "3186789012",
+    "email": "david.ramirez@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Sofía Martínez Díaz",
+    "grado": 6,
+    "grupo": "C",
+    "fecha_nacimiento": "2011-09-21",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Teusaquillo",
+      "direccion": "Carrera 24 # 40-55"
+    },
+    "acudiente": "Luis Martínez",
+    "telefono_acudiente": "3047890123",
+    "email": "sofia.martinez@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Andrés Gómez Herrera",
+    "grado": 11,
+    "grupo": "B",
+    "fecha_nacimiento": "2006-12-05",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Bosa",
+      "direccion": "Calle 60 # 80-12"
+    },
+    "acudiente": "Claudia Herrera",
+    "telefono_acudiente": "3128901234",
+    "email": "andres.gomez@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Camila Torres Rojas",
+    "grado": 8,
+    "grupo": "A",
+    "fecha_nacimiento": "2009-04-17",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Puente Aranda",
+      "direccion": "Diagonal 30 # 25-40"
+    },
+    "acudiente": "Alberto Torres",
+    "telefono_acudiente": "3179012345",
+    "email": "camila.torres@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Javier Silva Mendoza",
+    "grado": 9,
+    "grupo": "C",
+    "fecha_nacimiento": "2008-10-11",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "San Cristóbal",
+      "direccion": "Calle 5 # 10-22"
+    },
+    "acudiente": "Patricia Mendoza",
+    "telefono_acudiente": "3190123456",
+    "email": "javier.silva@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Valentina Castro Ruiz",
+    "grado": 7,
+    "grupo": "B",
+    "fecha_nacimiento": "2010-01-25",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Rafael Uribe",
+      "direccion": "Carrera 10 # 20-30"
+    },
+    "acudiente": "Fernando Castro",
+    "telefono_acudiente": "3131234567",
+    "email": "valentina.castro@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Diego Morales Pérez",
+    "grado": 10,
+    "grupo": "A",
+    "fecha_nacimiento": "2007-06-08",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Los Mártires",
+      "direccion": "Calle 19 # 15-20"
+    },
+    "acudiente": "Lucía Pérez",
+    "telefono_acudiente": "3142345678",
+    "email": "diego.morales@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Isabella Rojas Gutiérrez",
+    "grado": 6,
+    "grupo": "C",
+    "fecha_nacimiento": "2011-08-12",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Antonio Nariño",
+      "direccion": "Carrera 30 # 10-15"
+    },
+    "acudiente": "Ricardo Rojas",
+    "telefono_acudiente": "3163456789",
+    "email": "isabella.rojas@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Samuel Vargas López",
+    "grado": 11,
+    "grupo": "B",
+    "fecha_nacimiento": "2006-03-19",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Ciudad Bolívar",
+      "direccion": "Calle 70 # 80-90"
+    },
+    "acudiente": "María López",
+    "telefono_acudiente": "3204567890",
+    "email": "samuel.vargas@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Gabriela Herrera Sánchez",
+    "grado": 8,
+    "grupo": "A",
+    "fecha_nacimiento": "2009-07-23",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Santa Fe",
+      "direccion": "Carrera 7 # 12-45"
+    },
+    "acudiente": "Jorge Herrera",
+    "telefono_acudiente": "3155678901",
+    "email": "gabriela.herrera@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Miguel Ángel Díaz Castro",
+    "grado": 9,
+    "grupo": "C",
+    "fecha_nacimiento": "2008-12-01",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Usme",
+      "direccion": "Calle 100 # 120-30"
+    },
+    "acudiente": "Carolina Díaz",
+    "telefono_acudiente": "3176789012",
+    "email": "miguel.diaz@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Mariana Ortiz Gómez",
+    "grado": 7,
+    "grupo": "B",
+    "fecha_nacimiento": "2010-04-05",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Tunjuelito",
+      "direccion": "Diagonal 50 # 60-70"
+    },
+    "acudiente": "Alfredo Ortiz",
+    "telefono_acudiente": "3127890123",
+    "email": "mariana.ortiz@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Daniel Suárez Ramírez",
+    "grado": 10,
+    "grupo": "A",
+    "fecha_nacimiento": "2007-09-14",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "Barrios Unidos",
+      "direccion": "Carrera 45 # 90-10"
+    },
+    "acudiente": "Laura Ramírez",
+    "telefono_acudiente": "3188901234",
+    "email": "daniel.suarez@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Valeria Medina Torres",
+    "grado": 6,
+    "grupo": "C",
+    "fecha_nacimiento": "2011-11-27",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "La Candelaria",
+      "direccion": "Calle 11 # 5-60"
+    },
+    "acudiente": "Roberto Medina",
+    "telefono_acudiente": "3149012345",
+    "email": "valeria.medina@colegio.edu.co",
+    "estado_matricula": "activa"
+  },
+  {
+    "nombre_completo": "Alejandro Castro Ríos",
+    "grado": 11,
+    "grupo": "B",
+    "fecha_nacimiento": "2006-02-09",
+    "direccion": {
+      "ciudad": "Bogotá",
+      "barrio": "San Francisco",
+      "direccion": "Carrera 15 # 25-35"
+    },
+    "acudiente": "Diana Ríos",
+    "telefono_acudiente": "3100123456",
+    "email": "alejandro.castro@colegio.edu.co",
+    "estado_matricula": "activa"
+  }
+]
