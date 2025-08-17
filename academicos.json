@@ -1,0 +1,162 @@
+[
+  {
+    "nombre_completo": "Ricardo Morales Rojas",
+    "cargo": "Rector",
+    "email": "rectoria@colegio.edu.co",
+    "telefono": "6012345678",
+    "fecha_ingreso": "2015-01-10",
+    "gestion": ["académica", "administrativa"]
+  },
+  {
+    "nombre_completo": "Ana Belén Castro",
+    "cargo": "Coordinadora Académica",
+    "email": "coordinacion@colegio.edu.co",
+    "telefono": "6012345679",
+    "fecha_ingreso": "2018-03-15",
+    "gestion": ["académica"]
+  },
+  {
+    "nombre_completo": "Carlos Andrés Mendoza",
+    "cargo": "Coordinador de Disciplina",
+    "email": "disciplina@colegio.edu.co",
+    "telefono": "6012345680",
+    "fecha_ingreso": "2017-06-20",
+    "gestion": ["convivencia"]
+  },
+  {
+    "nombre_completo": "María Fernanda López",
+    "cargo": "Secretaria Académica",
+    "email": "secretaria@colegio.edu.co",
+    "telefono": "6012345681",
+    "fecha_ingreso": "2019-02-05",
+    "gestion": ["administrativa"]
+  },
+  {
+    "nombre_completo": "Jorge Enrique Ramírez",
+    "cargo": "Coordinador de Bienestar",
+    "email": "bienestar@colegio.edu.co",
+    "telefono": "6012345682",
+    "fecha_ingreso": "2016-08-12",
+    "gestion": ["bienestar", "convivencia"]
+  },
+  {
+    "nombre_completo": "Patricia del Pilar Gómez",
+    "cargo": "Psicóloga Orientadora",
+    "email": "orientacion@colegio.edu.co",
+    "telefono": "6012345683",
+    "fecha_ingreso": "2020-04-18",
+    "gestion": ["bienestar"]
+  },
+  {
+    "nombre_completo": "Alberto José Torres",
+    "cargo": "Coordinador de Tecnología",
+    "email": "tecnologia@colegio.edu.co",
+    "telefono": "6012345684",
+    "fecha_ingreso": "2019-07-22",
+    "gestion": ["tecnológica"]
+  },
+  {
+    "nombre_completo": "Luisa Fernanda Herrera",
+    "cargo": "Coordinadora de Primaria",
+    "email": "primaria@colegio.edu.co",
+    "telefono": "6012345685",
+    "fecha_ingreso": "2018-01-30",
+    "gestion": ["académica"]
+  },
+  {
+    "nombre_completo": "Oscar Mauricio Díaz",
+    "cargo": "Coordinador de Bachillerato",
+    "email": "bachillerato@colegio.edu.co",
+    "telefono": "6012345686",
+    "fecha_ingreso": "2017-11-14",
+    "gestion": ["académica"]
+  },
+  {
+    "nombre_completo": "Sandra Milena Ruiz",
+    "cargo": "Coordinadora de Proyectos",
+    "email": "proyectos@colegio.edu.co",
+    "telefono": "6012345687",
+    "fecha_ingreso": "2020-09-08",
+    "gestion": ["proyectos especiales"]
+  },
+  {
+    "nombre_completo": "Hernán Darío Sánchez",
+    "cargo": "Jefe de Recursos Humanos",
+    "email": "rrhh@colegio.edu.co",
+    "telefono": "6012345688",
+    "fecha_ingreso": "2016-05-25",
+    "gestion": ["administrativa"]
+  },
+  {
+    "nombre_completo": "Claudia Marcela Vargas",
+    "cargo": "Coordinadora de Admisiones",
+    "email": "admisiones@colegio.edu.co",
+    "telefono": "6012345689",
+    "fecha_ingreso": "2019-08-17",
+    "gestion": ["administrativa"]
+  },
+  {
+    "nombre_completo": "Felipe Andrés Castro",
+    "cargo": "Coordinador Deportivo",
+    "email": "deportes@colegio.edu.co",
+    "telefono": "6012345690",
+    "fecha_ingreso": "2018-10-03",
+    "gestion": ["deportes"]
+  },
+  {
+    "nombre_completo": "Mónica Patricia Ríos",
+    "cargo": "Coordinadora de Idiomas",
+    "email": "idiomas@colegio.edu.co",
+    "telefono": "6012345691",
+    "fecha_ingreso": "2021-01-12",
+    "gestion": ["académica"]
+  },
+  {
+    "nombre_completo": "Gustavo Adolfo Peña",
+    "cargo": "Coordinador de Ciencias",
+    "email": "ciencias@colegio.edu.co",
+    "telefono": "6012345692",
+    "fecha_ingreso": "2017-04-19",
+    "gestion": ["académica"]
+  },
+  {
+    "nombre_completo": "Diana Carolina Méndez",
+    "cargo": "Coordinadora de Artes",
+    "email": "artes@colegio.edu.co",
+    "telefono": "6012345693",
+    "fecha_ingreso": "2019-12-07",
+    "gestion": ["artística"]
+  },
+  {
+    "nombre_completo": "Jairo Alonso Gutiérrez",
+    "cargo": "Coordinador de Investigación",
+    "email": "investigacion@colegio.edu.co",
+    "telefono": "6012345694",
+    "fecha_ingreso": "2020-06-21",
+    "gestion": ["investigación"]
+  },
+  {
+    "nombre_completo": "Liliana Marcela Ortiz",
+    "cargo": "Coordinadora de Convivencia",
+    "email": "convivencia@colegio.edu.co",
+    "telefono": "6012345695",
+    "fecha_ingreso": "2018-07-09",
+    "gestion": ["convivencia"]
+  },
+  {
+    "nombre_completo": "Mauricio Alejandro Silva",
+    "cargo": "Coordinador de Pastoral",
+    "email": "pastoral@colegio.edu.co",
+    "telefono": "6012345696",
+    "fecha_ingreso": "2017-09-28",
+    "gestion": ["pastoral"]
+  },
+  {
+    "nombre_completo": "Adriana Lucía Morales",
+    "cargo": "Coordinadora de Biblioteca",
+    "email": "biblioteca@colegio.edu.co",
+    "telefono": "6012345697",
+    "fecha_ingreso": "2019-05-14",
+    "gestion": ["biblioteca"]
+  }
+]
