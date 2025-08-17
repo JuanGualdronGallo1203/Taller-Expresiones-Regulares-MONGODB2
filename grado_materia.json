@@ -1,0 +1,515 @@
+
+[
+  {
+    "codigo_materia": "MAT",
+    "grado": 6,
+    "intensidad_horaria": 5,
+    "nivel_dificultad": "Básico"
+  },
+  {
+    "codigo_materia": "MAT",
+    "grado": 7,
+    "intensidad_horaria": 5,
+    "nivel_dificultad": "Básico"
+  },
+  {
+    "codigo_materia": "MAT",
+    "grado": 8,
+    "intensidad_horaria": 5,
+    "nivel_dificultad": "Intermedio"
+  },
+  {
+    "codigo_materia": "MAT",
+    "grado": 9,
+    "intensidad_horaria": 6,
+    "nivel_dificultad": "Intermedio"
+  },
+  {
+    "codigo_materia": "MAT",
+    "grado": 10,
+    "intensidad_horaria": 6,
+    "nivel_dificultad": "Avanzado"
+  },
+  {
+    "codigo_materia": "MAT",
+    "grado": 11,
+    "intensidad_horaria": 6,
+    "nivel_dificultad": "Avanzado"
+  },
+  {
+    "codigo_materia": "FIS",
+    "grado": 10,
+    "intensidad_horaria": 4,
+    "nivel_dificultad": "Intermedio"
+  },
+  {
+    "codigo_materia": "FIS",
+    "grado": 11,
+    "intensidad_horaria": 4,
+    "nivel_dificultad": "Avanzado"
+  },
+  {
+    "codigo_materia": "QUI",
+    "grado": 9,
+    "intensidad_horaria": 3,
+    "nivel_dificultad": "Básico"
+  },
+  {
+    "codigo_materia": "QUI",
+    "grado": 10,
+    "intensidad_horaria": 4,
+    "nivel_dificultad": "Intermedio"
+  },
+  {
+    "codigo_materia": "QUI",
+    "grado": 11,
+    "intensidad_horaria": 4,
+    "nivel_dificultad": "Avanzado"
+  },
+  {
+    "codigo_materia": "FIL",
+    "grado": 10,
+    "intensidad_horaria": 2,
+    "nivel_dificultad": "Intermedio"
+  },
+  {
+    "codigo_materia": "FIL",
+    "grado": 11,
+    "intensidad_horaria": 2,
+    "nivel_dificultad": "Avanzado"
+  },
+  {
+    "codigo_materia": "PRE",
+    "grado": 11,
+    "intensidad_horaria": 4,
+    "nivel_dificultad": "Avanzado"
+  },
+  {
+    "codigo_materia": "EDF",
+    "grado": 6,
+    "intensidad_horaria": 2,
+    "nivel_dificultad": "Básico"
+  },
+  {
+    "codigo_materia": "EDF",
+    "grado": 7,
+    "intensidad_horaria": 2,
+    "nivel_dificultad": "Básico"
+  },
+  {
+    "codigo_materia": "EDF",
+    "grado": 8,
+    "intensidad_horaria": 2,
+    "nivel_dificultad": "Intermedio"
+  },
+  {
+    "codigo_materia": "EDF",
+    "grado": 9,
+    "intensidad_horaria": 2,
+    "nivel_dificultad": "Intermedio"
+  },
+  {
+    "codigo_materia": "EDF",
+    "grado": 10,
+    "intensidad_horaria": 2,
+    "nivel_dificultad": "Avanzado"
+  },
+  {
+    "codigo_materia": "EDF",
+    "grado": 11,
+    "intensidad_horaria": 2,
+    "nivel_dificultad": "Avanzado"
+  },
+  {
+    "codigo_materia": "MAT",
+    "grado": 6,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "quiz1": 4.2,
+          "quiz2": 3.8,
+          "proyecto": 4.5,
+          "examen": 4.0
+        },
+        "definitiva": 4.1,
+        "estado": "aprobado",
+        "observaciones": "Buen desempeño en álgebra básica"
+      },
+      {
+        "numero": 2,
+        "notas": {
+          "quiz1": 4.0,
+          "quiz2": 4.2,
+          "proyecto": 4.1,
+          "examen": 3.9
+        },
+        "definitiva": 4.0,
+        "estado": "aprobado",
+        "observaciones": "Progreso constante"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "LEN",
+    "grado": 7,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "lectura": 4.5,
+          "escritura": 3.8,
+          "ortografia": 4.0,
+          "examen": 4.2
+        },
+        "definitiva": 4.1,
+        "estado": "aprobado",
+        "observaciones": "Excelente comprensión lectora"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "CN",
+    "grado": 8,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "laboratorio": 4.8,
+          "investigacion": 4.5,
+          "examen_teorico": 3.9,
+          "participacion": 4.0
+        },
+        "definitiva": 4.3,
+        "estado": "aprobado",
+        "observaciones": "Destacado en trabajos prácticos"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "ING",
+    "grado": 9,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "vocabulario": 3.5,
+          "gramatica": 3.2,
+          "conversacion": 4.0,
+          "examen": 3.8
+        },
+        "definitiva": 3.6,
+        "estado": "aprobado",
+        "observaciones": "Fluidez oral sobresaliente"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "FIS",
+    "grado": 10,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "problemas": 2.8,
+          "laboratorio": 3.5,
+          "teoria": 3.0,
+          "examen": 2.9
+        },
+        "definitiva": 3.0,
+        "estado": "aprobado",
+        "observaciones": "Necesita reforzar conceptos teóricos"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "QUI",
+    "grado": 11,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "laboratorio": 4.5,
+          "investigacion": 4.2,
+          "examen_teorico": 4.0,
+          "proyecto": 4.3
+        },
+        "definitiva": 4.2,
+        "estado": "aprobado",
+        "observaciones": "Excelente método científico"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "HIS",
+    "grado": 6,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "linea_tiempo": 4.0,
+          "analisis": 3.8,
+          "investigacion": 4.2,
+          "examen": 3.9
+        },
+        "definitiva": 4.0,
+        "estado": "aprobado",
+        "observaciones": "Buen análisis histórico"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "GEO",
+    "grado": 7,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "mapas": 4.5,
+          "climas": 4.0,
+          "investigacion": 4.2,
+          "examen": 4.1
+        },
+        "definitiva": 4.2,
+        "estado": "aprobado",
+        "observaciones": "Excelente interpretación cartográfica"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "ART",
+    "grado": 8,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "tecnica": 4.8,
+          "creatividad": 5.0,
+          "proyecto": 4.7,
+          "participacion": 4.5
+        },
+        "definitiva": 4.7,
+        "estado": "aprobado",
+        "observaciones": "Talento artístico destacado"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "EDF",
+    "grado": 9,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "resistencia": 4.0,
+          "habilidad": 3.8,
+          "teoria": 4.2,
+          "participacion": 4.5
+        },
+        "definitiva": 4.1,
+        "estado": "aprobado",
+        "observaciones": "Excelente condición física"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "FIL",
+    "grado": 10,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "ensayo": 4.5,
+          "debate": 4.2,
+          "lecturas": 4.0,
+          "examen": 4.1
+        },
+        "definitiva": 4.2,
+        "estado": "aprobado",
+        "observaciones": "Capacidad crítica sobresaliente"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "ECO",
+    "grado": 11,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "proyecto": 4.8,
+          "analisis": 4.5,
+          "examen_teorico": 4.2,
+          "casos": 4.6
+        },
+        "definitiva": 4.5,
+        "estado": "aprobado",
+        "observaciones": "Excelente comprensión económica"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "MUS",
+    "grado": 6,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "teoria": 4.0,
+          "practica": 4.5,
+          "creatividad": 4.2,
+          "participacion": 4.8
+        },
+        "definitiva": 4.4,
+        "estado": "aprobado",
+        "observaciones": "Oído musical desarrollado"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "INF",
+    "grado": 7,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "practicas": 4.5,
+          "proyecto": 4.2,
+          "teoria": 4.0,
+          "ejercicios": 4.3
+        },
+        "definitiva": 4.2,
+        "estado": "aprobado",
+        "observaciones": "Habilidad destacada con TIC"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "SOC",
+    "grado": 8,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "investigacion": 4.5,
+          "analisis": 4.0,
+          "mapas": 4.2,
+          "examen": 4.1
+        },
+        "definitiva": 4.2,
+        "estado": "aprobado",
+        "observaciones": "Buen análisis social"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "PSI",
+    "grado": 9,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "casos": 4.0,
+          "teoria": 3.8,
+          "investigacion": 4.2,
+          "examen": 4.1
+        },
+        "definitiva": 4.0,
+        "estado": "aprobado",
+        "observaciones": "Buena comprensión psicológica"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "ETI",
+    "grado": 10,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "ensayos": 4.5,
+          "debates": 4.2,
+          "proyecto": 4.6,
+          "examen": 4.3
+        },
+        "definitiva": 4.4,
+        "estado": "aprobado",
+        "observaciones": "Excelente razonamiento ético"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "PRE",
+    "grado": 11,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "matematicas": 4.2,
+          "lectura": 4.5,
+          "ciencias": 4.0,
+          "sociales": 4.3
+        },
+        "definitiva": 4.2,
+        "estado": "aprobado",
+        "observaciones": "Buen desempeño en simulacros"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "BIO",
+    "grado": 6,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "laboratorio": 4.5,
+          "investigacion": 4.0,
+          "examen": 4.2,
+          "proyecto": 4.3
+        },
+        "definitiva": 4.2,
+        "estado": "aprobado",
+        "observaciones": "Interés destacado en biología"
+      }
+    ]
+  },
+  {
+    "codigo_materia": "TEC",
+    "grado": 7,
+    "anio_lectivo": 2023,
+    "periodos": [
+      {
+        "numero": 1,
+        "notas": {
+          "proyecto": 4.8,
+          "ejercicios": 4.5,
+          "teoria": 4.0,
+          "innovacion": 4.6
+        },
+        "definitiva": 4.5,
+        "estado": "aprobado",
+        "observaciones": "Creatividad tecnológica destacada"
+      }
+    ]
+  }
+]
