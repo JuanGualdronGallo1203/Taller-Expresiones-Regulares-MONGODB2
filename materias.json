@@ -1,0 +1,142 @@
+[
+  {
+    "codigo_materia": "MAT",
+    "nombre": "Matemáticas",
+    "area": "Ciencias Exactas",
+    "tipo": "Obligatoria",
+    "descripcion": "Estudio de conceptos numéricos y algebraicos"
+  },
+  {
+    "codigo_materia": "LEN",
+    "nombre": "Lengua Castellana",
+    "area": "Humanidades",
+    "tipo": "Obligatoria",
+    "descripcion": "Estudio del idioma español y literatura"
+  },
+  {
+    "codigo_materia": "CN",
+    "nombre": "Ciencias Naturales",
+    "area": "Ciencias",
+    "tipo": "Obligatoria",
+    "descripcion": "Estudio de biología, química y física básica"
+  },
+  {
+    "codigo_materia": "ING",
+    "nombre": "Inglés",
+    "area": "Idiomas",
+    "tipo": "Obligatoria",
+    "descripcion": "Enseñanza del idioma inglés"
+  },
+  {
+    "codigo_materia": "SOC",
+    "nombre": "Sociales",
+    "area": "Humanidades",
+    "tipo": "Obligatoria",
+    "descripcion": "Historia y geografía"
+  },
+  {
+    "codigo_materia": "FIS",
+    "nombre": "Física",
+    "area": "Ciencias Exactas",
+    "tipo": "Obligatoria",
+    "descripcion": "Estudio de las leyes físicas"
+  },
+  {
+    "codigo_materia": "QUI",
+    "nombre": "Química",
+    "area": "Ciencias",
+    "tipo": "Obligatoria",
+    "descripcion": "Estudio de la composición de la materia"
+  },
+  {
+    "codigo_materia": "EDF",
+    "nombre": "Educación Física",
+    "area": "Deportes",
+    "tipo": "Obligatoria",
+    "descripcion": "Desarrollo físico y deportivo"
+  },
+  {
+    "codigo_materia": "ART",
+    "nombre": "Artes",
+    "area": "Artes",
+    "tipo": "Obligatoria",
+    "descripcion": "Expresión artística plástica"
+  },
+  {
+    "codigo_materia": "ETI",
+    "nombre": "Ética",
+    "area": "Humanidades",
+    "tipo": "Obligatoria",
+    "descripcion": "Principios morales y valores"
+  },
+  {
+    "codigo_materia": "FIL",
+    "nombre": "Filosofía",
+    "area": "Humanidades",
+    "tipo": "Obligatoria",
+    "descripcion": "Pensamiento crítico y lógica"
+  },
+  {
+    "codigo_materia": "BIO",
+    "nombre": "Biología",
+    "area": "Ciencias",
+    "tipo": "Obligatoria",
+    "descripcion": "Estudio de los seres vivos"
+  },
+  {
+    "codigo_materia": "INF",
+    "nombre": "Informática",
+    "area": "Tecnología",
+    "tipo": "Obligatoria",
+    "descripcion": "Uso de herramientas tecnológicas"
+  },
+  {
+    "codigo_materia": "GEO",
+    "nombre": "Geografía",
+    "area": "Humanidades",
+    "tipo": "Obligatoria",
+    "descripcion": "Estudio del espacio terrestre"
+  },
+  {
+    "codigo_materia": "HIS",
+    "nombre": "Historia",
+    "area": "Humanidades",
+    "tipo": "Obligatoria",
+    "descripcion": "Estudio de eventos pasados"
+  },
+  {
+    "codigo_materia": "MUS",
+    "nombre": "Música",
+    "area": "Artes",
+    "tipo": "Electiva",
+    "descripcion": "Expresión musical"
+  },
+  {
+    "codigo_materia": "PSI",
+    "nombre": "Psicología",
+    "area": "Ciencias Sociales",
+    "tipo": "Electiva",
+    "descripcion": "Comportamiento humano"
+  },
+  {
+    "codigo_materia": "ECO",
+    "nombre": "Economía",
+    "area": "Ciencias Sociales",
+    "tipo": "Electiva",
+    "descripcion": "Principios económicos básicos"
+  },
+  {
+    "codigo_materia": "PRE",
+    "nombre": "Pre ICFES",
+    "area": "Refuerzo",
+    "tipo": "Complementaria",
+    "descripcion": "Preparación para pruebas estatales"
+  },
+  {
+    "codigo_materia": "TEC",
+    "nombre": "Tecnología",
+    "area": "Tecnología",
+    "tipo": "Obligatoria",
+    "descripcion": "Aplicaciones tecnológicas"
+  }
+]
