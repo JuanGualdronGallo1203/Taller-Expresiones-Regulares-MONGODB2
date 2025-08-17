@@ -1,0 +1,191 @@
+[
+  {
+    "nombre": "Olimpiadas Matemáticas Interclases",
+    "fecha": "2023-05-15",
+    "hora": "08:00",
+    "ubicacion": "Patio Principal",
+    "grados_participantes": [6, 7, 8, 9, 10, 11],
+    "tipo": "académico",
+    "descripcion": "Competencia matemática por equipos entre cursos"
+  },
+  {
+    "nombre": "Feria Científica Anual",
+    "fecha": "2023-06-20",
+    "hora": "09:00",
+    "ubicacion": "Gimnasio",
+    "grados_participantes": [6, 7, 8, 9, 10, 11],
+    "tipo": "académico",
+    "descripcion": "Exhibición de proyectos científicos estudiantiles"
+  },
+  {
+    "nombre": "Charla Universidades",
+    "fecha": "2023-07-10",
+    "hora": "14:00",
+    "ubicacion": "Auditorio",
+    "grados_participantes": [10, 11],
+    "tipo": "orientación",
+    "descripcion": "Presentación de opciones universitarias"
+  },
+  {
+    "nombre": "Torneo Intercursos Fútbol",
+    "fecha": "2023-08-05",
+    "hora": "10:00",
+    "ubicacion": "Cancha Deportiva",
+    "grados_participantes": [6, 7, 8, 9, 10, 11],
+    "tipo": "deportivo",
+    "descripcion": "Campeonato de fútbol entre grados"
+  },
+  {
+    "nombre": "Festival de Talentos",
+    "fecha": "2023-09-12",
+    "hora": "16:00",
+    "ubicacion": "Auditorio",
+    "grados_participantes": [6, 7, 8, 9, 10, 11],
+    "tipo": "artístico",
+    "descripcion": "Exhibición de talentos musicales y escénicos"
+  },
+  {
+    "nombre": "Simulacro de Evacuación",
+    "fecha": "2023-04-03",
+    "hora": "10:30",
+    "ubicacion": "Toda la institución",
+    "grados_participantes": [6, 7, 8, 9, 10, 11],
+    "tipo": "seguridad",
+    "descripcion": "Práctica de protocolos de emergencia"
+  },
+  {
+    "nombre": "Día del Libro",
+    "fecha": "2023-04-23",
+    "hora": "08:00",
+    "ubicacion": "Biblioteca",
+    "grados_participantes": [6, 7, 8, 9],
+    "tipo": "cultural",
+    "descripcion": "Actividades de promoción de lectura"
+  },
+  {
+    "nombre": "Jornada Ecológica",
+    "fecha": "2023-05-30",
+    "hora": "07:30",
+    "ubicacion": "Zonas Verdes",
+    "grados_participantes": [6, 7, 8],
+    "tipo": "ambiental",
+    "descripcion": "Limpieza y siembra de plantas en el colegio"
+  },
+  {
+    "nombre": "Concurso de Ortografía",
+    "fecha": "2023-06-15",
+    "hora": "11:00",
+    "ubicacion": "Aula Múltiple",
+    "grados_participantes": [6, 7, 8, 9],
+    "tipo": "académico",
+    "descripcion": "Competencia de escritura correcta"
+  },
+  {
+    "nombre": "Charla de Educación Sexual",
+    "fecha": "2023-08-22",
+    "hora": "10:00",
+    "ubicacion": "Auditorio",
+    "grados_participantes": [8, 9, 10, 11],
+    "tipo": "formativo",
+    "descripcion": "Taller sobre salud sexual y reproductiva"
+  },
+  {
+    "nombre": "Exposición de Arte",
+    "fecha": "2023-10-05",
+    "hora": "15:00",
+    "ubicacion": "Pasillos Principales",
+    "grados_participantes": [6, 7, 8, 9, 10, 11],
+    "tipo": "artístico",
+    "descripcion": "Muestra de trabajos artísticos estudiantiles"
+  },
+  {
+    "nombre": "Maratón de Lectura",
+    "fecha": "2023-09-28",
+    "hora": "08:30",
+    "ubicacion": "Biblioteca",
+    "grados_participantes": [6, 7, 8],
+    "tipo": "cultural",
+    "descripcion": "Jornada de lectura continua por equipos"
+  },
+  {
+    "nombre": "Feria de Proyectos Tecnológicos",
+    "fecha": "2023-11-10",
+    "hora": "09:00",
+    "ubicacion": "Laboratorio de Informática",
+    "grados_participantes": [9, 10, 11],
+    "tipo": "tecnológico",
+    "descripcion": "Presentación de inventos y soluciones tecnológicas"
+  },
+  {
+    "nombre": "Encuentro de Poesía",
+    "fecha": "2023-07-25",
+    "hora": "14:30",
+    "ubicacion": "Aula de Música",
+    "grados_participantes": [10, 11],
+    "tipo": "literario",
+    "descripcion": "Recital de poesía estudiantil"
+  },
+  {
+    "nombre": "Simulacro ICFES",
+    "fecha": "2023-08-30",
+    "hora": "07:00",
+    "ubicacion": "Aulas Designadas",
+    "grados_participantes": [11],
+    "tipo": "académico",
+    "descripcion": "Prueba simulada de Estado"
+  },
+  {
+    "nombre": "Torneo de Ajedrez",
+    "fecha": "2023-10-18",
+    "hora": "11:00",
+    "ubicacion": "Sala de Juegos",
+    "grados_participantes": [6, 7, 8, 9, 10, 11],
+    "tipo": "académico",
+    "descripcion": "Competencia de estrategia y pensamiento lógico"
+  },
+  {
+    "nombre": "Jornada de Convivencia",
+    "fecha": "2023-05-08",
+    "hora": "08:00",
+    "ubicacion": "Canchas Deportivas",
+    "grados_participantes": [6, 7, 8],
+    "tipo": "social",
+    "descripcion": "Actividades para fortalecer relaciones interpersonales"
+  },
+  {
+    "nombre": "Charla de Emprendimiento",
+    "fecha": "2023-09-05",
+    "hora": "10:00",
+    "ubicacion": "Auditorio",
+    "grados_participantes": [10, 11],
+    "tipo": "formativo",
+    "descripcion": "Conferencia sobre creación de empresas"
+  },
+  {
+    "nombre": "Festival Gastronómico",
+    "fecha": "2023-11-15",
+    "hora": "12:00",
+    "ubicacion": "Comedor Principal",
+    "grados_participantes": [6, 7, 8, 9, 10, 11],
+    "tipo": "cultural",
+    "descripcion": "Muestra de platos típicos por cursos"
+  },
+  {
+    "nombre": "Ceremonia de Graduación",
+    "fecha": "2023-11-30",
+    "hora": "17:00",
+    "ubicacion": "Auditorio Principal",
+    "grados_participantes": [11],
+    "tipo": "ceremonia",
+    "descripcion": "Acto de graduación del grado 11"
+  },
+  {
+    "nombre": "Campamento Científico",
+    "fecha": "2023-10-27",
+    "hora": "07:00",
+    "ubicacion": "Reserva Natural",
+    "grados_participantes": [9, 10],
+    "tipo": "académico",
+    "descripcion": "Jornada de observación científica en la naturaleza"
+  }
+]
