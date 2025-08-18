@@ -1,5 +1,6 @@
 [
   {
+    "id_profesor": "PROF001",
     "nombre_completo": "Laura Sánchez Mendoza",
     "especialidad": "Matemáticas",
     "grados_asignados": [6, 7, 8],
@@ -9,6 +10,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF002",
     "nombre_completo": "Carlos Jiménez Ruiz",
     "especialidad": "Ciencias Naturales",
     "grados_asignados": [9, 10, 11],
@@ -18,6 +20,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF003",
     "nombre_completo": "Ana María López García",
     "especialidad": "Lengua Castellana",
     "grados_asignados": [6, 7, 8, 9],
@@ -27,6 +30,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF004",
     "nombre_completo": "David Ramírez Castro",
     "especialidad": "Física",
     "grados_asignados": [10, 11],
@@ -36,6 +40,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF005",
     "nombre_completo": "Sofía Martínez Díaz",
     "especialidad": "Química",
     "grados_asignados": [9, 10, 11],
@@ -45,6 +50,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF006",
     "nombre_completo": "Andrés Gómez Herrera",
     "especialidad": "Inglés",
     "grados_asignados": [6, 7, 8, 9, 10, 11],
@@ -54,6 +60,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF007",
     "nombre_completo": "Camila Torres Rojas",
     "especialidad": "Sociales",
     "grados_asignados": [6, 7, 8],
@@ -63,6 +70,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF008",
     "nombre_completo": "Javier Silva Mendoza",
     "especialidad": "Educación Física",
     "grados_asignados": [6, 7, 8, 9, 10, 11],
@@ -72,6 +80,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF009",
     "nombre_completo": "Valentina Castro Ruiz",
     "especialidad": "Artes",
     "grados_asignados": [6, 7, 8, 9],
@@ -81,6 +90,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF010",
     "nombre_completo": "Diego Morales Pérez",
     "especialidad": "Informática",
     "grados_asignados": [6, 7, 8, 9, 10, 11],
@@ -90,6 +100,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF011",
     "nombre_completo": "Isabella Rojas Gutiérrez",
     "especialidad": "Matemáticas",
     "grados_asignados": [9, 10, 11],
@@ -99,6 +110,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF012",
     "nombre_completo": "Samuel Vargas López",
     "especialidad": "Filosofía",
     "grados_asignados": [10, 11],
@@ -108,6 +120,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF013",
     "nombre_completo": "Gabriela Herrera Sánchez",
     "especialidad": "Biología",
     "grados_asignados": [9, 10, 11],
@@ -117,6 +130,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF014",
     "nombre_completo": "Miguel Ángel Díaz Castro",
     "especialidad": "Química",
     "grados_asignados": [10, 11],
@@ -126,6 +140,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF015",
     "nombre_completo": "Mariana Ortiz Gómez",
     "especialidad": "Lengua Castellana",
     "grados_asignados": [10, 11],
@@ -135,6 +150,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF016",
     "nombre_completo": "Daniel Suárez Ramírez",
     "especialidad": "Historia",
     "grados_asignados": [6, 7, 8, 9],
@@ -144,6 +160,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF017",
     "nombre_completo": "Valeria Medina Torres",
     "especialidad": "Geografía",
     "grados_asignados": [6, 7, 8],
@@ -153,6 +170,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF018",
     "nombre_completo": "Alejandro Castro Ríos",
     "especialidad": "Inglés",
     "grados_asignados": [9, 10, 11],
@@ -162,6 +180,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF019",
     "nombre_completo": "Carolina Méndez Vargas",
     "especialidad": "Educación Artística",
     "grados_asignados": [6, 7, 8],
@@ -171,6 +190,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF020",
     "nombre_completo": "Ricardo Peña Alvarado",
     "especialidad": "Ética",
     "grados_asignados": [6, 7, 8, 9],
@@ -180,6 +200,7 @@
     "estado": "activo"
   },
   {
+    "id_profesor": "PROF021",
     "nombre_completo": "Patricia Rojas Gutiérrez",
     "especialidad": "Psicología",
     "grados_asignados": [10, 11],
