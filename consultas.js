@@ -25,7 +25,7 @@ db.estudiantes.find().pretty();
 
 //Buscar estudiante por ID:
 
-db.estudiantes.find({ id_estudiante: 1 });
+db.estudiantes.find({ id_estudiante: "ES001" });
 
 //Buscar estudiantes de grado 11:
 
@@ -52,7 +52,7 @@ db.estudiantes.updateOne(
 
 //Eliminar un estudiante:
 
-db.estudiantes.deleteOne({ id_estudiante: 2 });
+db.estudiantes.deleteOne({ id_estudiante: "ES002" });
 
 
 
@@ -84,7 +84,7 @@ db.profesores.find().pretty();
 
 //Buscar profesor por ID:
 
-db.profesores.find({ id_profesor: 1 });
+db.profesores.find({ id_profesor: "PR001" });
 
 
 //Profesores que dictan Matemáticas:
@@ -112,7 +112,7 @@ db.profesores.updateOne(
 
 //Eliminar un profesor:
 
-db.profesores.deleteOne({ id_profesor: 2 });
+db.profesores.deleteOne({ id_profesor: "PR002" });
 
 
 
@@ -146,7 +146,7 @@ db.academicos.find().pretty();
 
 //Buscar notas de un estudiante específico:
 
-db.academicos.find({ id_estudiante: 1 });
+db.academicos.find({ id_estudiante: "ES001" });
 
 //Buscar calificaciones de una materia:
 
