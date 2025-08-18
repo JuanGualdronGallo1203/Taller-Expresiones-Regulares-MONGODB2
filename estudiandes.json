@@ -1,5 +1,6 @@
 [
   {
+    "id_estudiante": "ES001",
     "nombre_completo": "María González Pérez",
     "grado": 6,
     "grupo": "A",
@@ -15,6 +16,7 @@
     "estado_matricula": "activa"
   },
   {
+     "id_estudiante": "ES002",
     "nombre_completo": "Juan Rodríguez Martínez",
     "grado": 11,
     "grupo": "B",
@@ -30,6 +32,7 @@
     "estado_matricula": "activa"
   },
   {
+     "id_estudiante": "ES003",
     "nombre_completo": "Laura Sánchez Mendoza",
     "grado": 8,
     "grupo": "C",
@@ -45,6 +48,7 @@
     "estado_matricula": "activa"
   },
   {
+     "id_estudiante": "ES004",
     "nombre_completo": "Carlos Jiménez Ruiz",
     "grado": 9,
     "grupo": "A",
@@ -60,6 +64,7 @@
     "estado_matricula": "activa"
   },
   {
+     "id_estudiante": "ES005",
     "nombre_completo": "Ana López García",
     "grado": 7,
     "grupo": "B",
@@ -75,6 +80,7 @@
     "estado_matricula": "activa"
   },
   {
+     "id_estudiante": "ES006",
     "nombre_completo": "David Ramírez Castro",
     "grado": 10,
     "grupo": "A",
@@ -90,6 +96,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES007",
     "nombre_completo": "Sofía Martínez Díaz",
     "grado": 6,
     "grupo": "C",
@@ -105,6 +112,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES008",
     "nombre_completo": "Andrés Gómez Herrera",
     "grado": 11,
     "grupo": "B",
@@ -120,6 +128,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES009",
     "nombre_completo": "Camila Torres Rojas",
     "grado": 8,
     "grupo": "A",
@@ -135,6 +144,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES010",
     "nombre_completo": "Javier Silva Mendoza",
     "grado": 9,
     "grupo": "C",
@@ -150,6 +160,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES011",
     "nombre_completo": "Valentina Castro Ruiz",
     "grado": 7,
     "grupo": "B",
@@ -165,6 +176,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES012",
     "nombre_completo": "Diego Morales Pérez",
     "grado": 10,
     "grupo": "A",
@@ -180,6 +192,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES013",
     "nombre_completo": "Isabella Rojas Gutiérrez",
     "grado": 6,
     "grupo": "C",
@@ -195,6 +208,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES014",
     "nombre_completo": "Samuel Vargas López",
     "grado": 11,
     "grupo": "B",
@@ -210,6 +224,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES015",
     "nombre_completo": "Gabriela Herrera Sánchez",
     "grado": 8,
     "grupo": "A",
@@ -225,6 +240,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES016",
     "nombre_completo": "Miguel Ángel Díaz Castro",
     "grado": 9,
     "grupo": "C",
@@ -240,6 +256,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES017",
     "nombre_completo": "Mariana Ortiz Gómez",
     "grado": 7,
     "grupo": "B",
@@ -255,6 +272,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES018",
     "nombre_completo": "Daniel Suárez Ramírez",
     "grado": 10,
     "grupo": "A",
@@ -270,6 +288,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES019",
     "nombre_completo": "Valeria Medina Torres",
     "grado": 6,
     "grupo": "C",
@@ -285,6 +304,7 @@
     "estado_matricula": "activa"
   },
   {
+    "id_estudiante": "ES020",
     "nombre_completo": "Alejandro Castro Ríos",
     "grado": 11,
     "grupo": "B",
