@@ -1,5 +1,6 @@
 [
   {
+    "id_materia": "MAT001",
     "codigo_materia": "MAT",
     "nombre": "Matemáticas",
     "area": "Ciencias Exactas",
@@ -7,6 +8,7 @@
     "descripcion": "Estudio de conceptos numéricos y algebraicos"
   },
   {
+    "id_materia": "MAT002",
     "codigo_materia": "LEN",
     "nombre": "Lengua Castellana",
     "area": "Humanidades",
@@ -14,6 +16,7 @@
     "descripcion": "Estudio del idioma español y literatura"
   },
   {
+    "id_materia": "MAT002",
     "codigo_materia": "CN",
     "nombre": "Ciencias Naturales",
     "area": "Ciencias",
@@ -21,6 +24,7 @@
     "descripcion": "Estudio de biología, química y física básica"
   },
   {
+    "id_materia": "MAT003",
     "codigo_materia": "ING",
     "nombre": "Inglés",
     "area": "Idiomas",
@@ -28,6 +32,7 @@
     "descripcion": "Enseñanza del idioma inglés"
   },
   {
+    "id_materia": "MAT004",
     "codigo_materia": "SOC",
     "nombre": "Sociales",
     "area": "Humanidades",
@@ -35,6 +40,7 @@
     "descripcion": "Historia y geografía"
   },
   {
+    "id_materia": "MAT005",
     "codigo_materia": "FIS",
     "nombre": "Física",
     "area": "Ciencias Exactas",
@@ -42,6 +48,7 @@
     "descripcion": "Estudio de las leyes físicas"
   },
   {
+    "id_materia": "MAT006",
     "codigo_materia": "QUI",
     "nombre": "Química",
     "area": "Ciencias",
@@ -49,6 +56,7 @@
     "descripcion": "Estudio de la composición de la materia"
   },
   {
+    "id_materia": "MAT007",
     "codigo_materia": "EDF",
     "nombre": "Educación Física",
     "area": "Deportes",
@@ -56,6 +64,7 @@
     "descripcion": "Desarrollo físico y deportivo"
   },
   {
+    "id_materia": "MAT008",
     "codigo_materia": "ART",
     "nombre": "Artes",
     "area": "Artes",
@@ -63,6 +72,7 @@
     "descripcion": "Expresión artística plástica"
   },
   {
+    "id_materia": "MAT009",
     "codigo_materia": "ETI",
     "nombre": "Ética",
     "area": "Humanidades",
@@ -70,6 +80,7 @@
     "descripcion": "Principios morales y valores"
   },
   {
+    "id_materia": "MAT010",
     "codigo_materia": "FIL",
     "nombre": "Filosofía",
     "area": "Humanidades",
@@ -77,6 +88,7 @@
     "descripcion": "Pensamiento crítico y lógica"
   },
   {
+    "id_materia": "MAT011",
     "codigo_materia": "BIO",
     "nombre": "Biología",
     "area": "Ciencias",
@@ -84,6 +96,7 @@
     "descripcion": "Estudio de los seres vivos"
   },
   {
+    "id_materia": "MAT012",
     "codigo_materia": "INF",
     "nombre": "Informática",
     "area": "Tecnología",
@@ -91,6 +104,7 @@
     "descripcion": "Uso de herramientas tecnológicas"
   },
   {
+    "id_materia": "MAT013",
     "codigo_materia": "GEO",
     "nombre": "Geografía",
     "area": "Humanidades",
@@ -98,6 +112,7 @@
     "descripcion": "Estudio del espacio terrestre"
   },
   {
+    "id_materia": "MAT014",
     "codigo_materia": "HIS",
     "nombre": "Historia",
     "area": "Humanidades",
@@ -105,6 +120,7 @@
     "descripcion": "Estudio de eventos pasados"
   },
   {
+    "id_materia": "MAT015",
     "codigo_materia": "MUS",
     "nombre": "Música",
     "area": "Artes",
@@ -112,6 +128,7 @@
     "descripcion": "Expresión musical"
   },
   {
+    "id_materia": "MAT016",
     "codigo_materia": "PSI",
     "nombre": "Psicología",
     "area": "Ciencias Sociales",
@@ -119,6 +136,7 @@
     "descripcion": "Comportamiento humano"
   },
   {
+    "id_materia": "MAT017",
     "codigo_materia": "ECO",
     "nombre": "Economía",
     "area": "Ciencias Sociales",
@@ -126,6 +144,7 @@
     "descripcion": "Principios económicos básicos"
   },
   {
+    "id_materia": "MAT018",
     "codigo_materia": "PRE",
     "nombre": "Pre ICFES",
     "area": "Refuerzo",
@@ -133,6 +152,7 @@
     "descripcion": "Preparación para pruebas estatales"
   },
   {
+    "id_materia": "MAT019",
     "codigo_materia": "TEC",
     "nombre": "Tecnología",
     "area": "Tecnología",
