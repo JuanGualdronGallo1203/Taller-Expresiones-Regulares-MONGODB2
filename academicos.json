@@ -1,5 +1,6 @@
 [
   {
+    "id_academico": "ACAD001",
     "nombre_completo": "Ricardo Morales Rojas",
     "cargo": "Rector",
     "email": "rectoria@colegio.edu.co",
@@ -8,6 +9,7 @@
     "gestion": ["académica", "administrativa"]
   },
   {
+    "id_academico": "ACAD002",
     "nombre_completo": "Ana Belén Castro",
     "cargo": "Coordinadora Académica",
     "email": "coordinacion@colegio.edu.co",
@@ -16,6 +18,7 @@
     "gestion": ["académica"]
   },
   {
+    "id_academico": "ACAD003",
     "nombre_completo": "Carlos Andrés Mendoza",
     "cargo": "Coordinador de Disciplina",
     "email": "disciplina@colegio.edu.co",
@@ -24,6 +27,7 @@
     "gestion": ["convivencia"]
   },
   {
+    "id_academico": "ACAD004",
     "nombre_completo": "María Fernanda López",
     "cargo": "Secretaria Académica",
     "email": "secretaria@colegio.edu.co",
@@ -32,6 +36,7 @@
     "gestion": ["administrativa"]
   },
   {
+    "id_academico": "ACAD005",
     "nombre_completo": "Jorge Enrique Ramírez",
     "cargo": "Coordinador de Bienestar",
     "email": "bienestar@colegio.edu.co",
@@ -40,6 +45,7 @@
     "gestion": ["bienestar", "convivencia"]
   },
   {
+    "id_academico": "ACAD006",
     "nombre_completo": "Patricia del Pilar Gómez",
     "cargo": "Psicóloga Orientadora",
     "email": "orientacion@colegio.edu.co",
@@ -48,6 +54,7 @@
     "gestion": ["bienestar"]
   },
   {
+    "id_academico": "ACAD007",
     "nombre_completo": "Alberto José Torres",
     "cargo": "Coordinador de Tecnología",
     "email": "tecnologia@colegio.edu.co",
@@ -56,6 +63,7 @@
     "gestion": ["tecnológica"]
   },
   {
+    "id_academico": "ACAD008",
     "nombre_completo": "Luisa Fernanda Herrera",
     "cargo": "Coordinadora de Primaria",
     "email": "primaria@colegio.edu.co",
@@ -64,6 +72,7 @@
     "gestion": ["académica"]
   },
   {
+    "id_academico": "ACAD009",
     "nombre_completo": "Oscar Mauricio Díaz",
     "cargo": "Coordinador de Bachillerato",
     "email": "bachillerato@colegio.edu.co",
@@ -72,6 +81,7 @@
     "gestion": ["académica"]
   },
   {
+    "id_academico": "ACAD010",
     "nombre_completo": "Sandra Milena Ruiz",
     "cargo": "Coordinadora de Proyectos",
     "email": "proyectos@colegio.edu.co",
@@ -80,6 +90,7 @@
     "gestion": ["proyectos especiales"]
   },
   {
+    "id_academico": "ACAD011",
     "nombre_completo": "Hernán Darío Sánchez",
     "cargo": "Jefe de Recursos Humanos",
     "email": "rrhh@colegio.edu.co",
@@ -88,6 +99,7 @@
     "gestion": ["administrativa"]
   },
   {
+    "id_academico": "ACAD012",
     "nombre_completo": "Claudia Marcela Vargas",
     "cargo": "Coordinadora de Admisiones",
     "email": "admisiones@colegio.edu.co",
@@ -96,6 +108,7 @@
     "gestion": ["administrativa"]
   },
   {
+    "id_academico": "ACAD013",
     "nombre_completo": "Felipe Andrés Castro",
     "cargo": "Coordinador Deportivo",
     "email": "deportes@colegio.edu.co",
@@ -104,6 +117,7 @@
     "gestion": ["deportes"]
   },
   {
+    "id_academico": "ACAD014",
     "nombre_completo": "Mónica Patricia Ríos",
     "cargo": "Coordinadora de Idiomas",
     "email": "idiomas@colegio.edu.co",
@@ -112,6 +126,7 @@
     "gestion": ["académica"]
   },
   {
+    "id_academico": "ACAD015",
     "nombre_completo": "Gustavo Adolfo Peña",
     "cargo": "Coordinador de Ciencias",
     "email": "ciencias@colegio.edu.co",
@@ -120,6 +135,7 @@
     "gestion": ["académica"]
   },
   {
+    "id_academico": "ACAD016",
     "nombre_completo": "Diana Carolina Méndez",
     "cargo": "Coordinadora de Artes",
     "email": "artes@colegio.edu.co",
@@ -128,6 +144,7 @@
     "gestion": ["artística"]
   },
   {
+    "id_academico": "ACAD017",
     "nombre_completo": "Jairo Alonso Gutiérrez",
     "cargo": "Coordinador de Investigación",
     "email": "investigacion@colegio.edu.co",
@@ -136,6 +153,7 @@
     "gestion": ["investigación"]
   },
   {
+    "id_academico": "ACAD018",
     "nombre_completo": "Liliana Marcela Ortiz",
     "cargo": "Coordinadora de Convivencia",
     "email": "convivencia@colegio.edu.co",
@@ -144,6 +162,7 @@
     "gestion": ["convivencia"]
   },
   {
+    "id_academico": "ACAD019",
     "nombre_completo": "Mauricio Alejandro Silva",
     "cargo": "Coordinador de Pastoral",
     "email": "pastoral@colegio.edu.co",
@@ -152,6 +171,7 @@
     "gestion": ["pastoral"]
   },
   {
+    "id_academico": "ACAD020",
     "nombre_completo": "Adriana Lucía Morales",
     "cargo": "Coordinadora de Biblioteca",
     "email": "biblioteca@colegio.edu.co",
